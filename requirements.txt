@@ -1,2 +1,0 @@
-aiogram>=3.20,<4
-asyncpg>=0.29
